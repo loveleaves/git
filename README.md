@@ -4,7 +4,7 @@
 
 ## git文档
 
-[git官方文档](./git guides)
+[git官方文档](./git_guides)
 
 
 
