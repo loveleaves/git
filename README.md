@@ -6,7 +6,9 @@
 
 [git官方文档](./git_guides)
 
+[note](./note.md)
 
+[git commit-message规范](git-message.md)
 
 ## Problem_Solution
 
